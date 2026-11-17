@@ -1,30 +1,78 @@
-﻿# AURELLE - The Art of Luxury Dining
+﻿# AURELLE
+### THE ART OF LUXURY DINING
 
-A luxury restaurant web application.
+A Luxury Restaurant Web Application built using Laravel and MySQL.
 
-## Project Overview
-AURELLE is a Laravel-based restaurant application developed and customized as an academic project.
+---
 
-## Technologies
-- PHP
-- Laravel
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+## About the Project
 
-## Features
+AURELLE is a modern restaurant web application designed to provide a premium online dining experience. It combines restaurant menu management, food ordering, coupon functionality and administrative management.
+
+## Key Features
+
 - User Authentication
-- Restaurant Menu
-- Product Management
+- Restaurant Menu Management
+- Food and Product Management
 - Shopping Cart
 - Coupon Management
+- Coupon Expiry Handling
 - Order Management
 - Admin Dashboard
+- Database Management
+
+## Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| PHP | Backend Development |
+| Laravel | Web Application Framework |
+| MySQL | Database |
+| HTML5 | Page Structure |
+| CSS3 | Styling |
+| JavaScript | Interactive Features |
+| Bootstrap | Responsive UI |
+
+## Project Modules
+
+### Customer Module
+- Browse restaurant menu
+- View food products
+- Manage shopping cart
+- Apply available coupons
+- Place orders
+
+### Admin Module
+- Manage food products
+- Manage categories
+- Manage coupons
+- Manage orders
+- Manage restaurant information
+
+## Project Goals
+
+- Build a functional restaurant web application.
+- Understand Laravel MVC architecture.
+- Improve database management skills.
+- Implement real-world e-commerce functionality.
+- Develop practical backend and frontend skills.
 
 ## Developer
-Krisha Mungara
 
-## Project Purpose
-Academic Project - MSc IT
+**Krisha Mungara**
+
+BCA Graduate | MSc IT Pursuing
+
+## Project Information
+
+Project Type: Academic Project
+
+Category: Web Application Development
+
+Framework: Laravel
+
+Database: MySQL
+
+---
+
+*Developed and customized as an academic web development project.*
